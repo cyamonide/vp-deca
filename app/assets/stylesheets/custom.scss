@@ -1,5 +1,6 @@
 @import "bootstrap-sprockets";
-@import "bootstrap";
+// @import "bootstrap";
+@import "darkly-bootstrap.min.css";
 
 /* Notice the nesting in these "CSS" declarations. SASSY CSS, i.e., 
 SCSS allows for this. The "&:" refers to the parent e.g., see "#logo" in 
@@ -63,6 +64,7 @@ p {
 #logo {
   float: left;
   margin-right: 10px;
+  margin-left: 10px;
   font-size: 1.7em;
   color: #fff;
   text-transform: uppercase;
@@ -101,4 +103,14 @@ footer {
       margin-left: 15px;
     }
   }
+}
+
+.container-background {
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+  margin: 0%;
+  padding: 0;
+  z-index: -1;
 }
