@@ -6,9 +6,9 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <%= link_to "VP DECA", root_path, id: "logo" %>
+      <!-- link_to "VP DECA", root_path, id: "logo" -->
     </div>
-    
+
     <div class="collapse navbar-collapse" id="navbar">
       <ul class="nav navbar-nav navbar-right">
         <li class="active"><a href="#">About</a></li>

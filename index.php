@@ -4,10 +4,11 @@
 
 <head>
   <meta charset='UTF-8'>
-  <link type='text/css' rel='stylesheet' href=''>
+  <link type='text/css' rel='stylesheet' href='/assets/stylesheets/custom.css'>
 
   <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/stylesheets/darkly-bootstrap.min.css">
 
   <!-- jQuery library -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -20,6 +21,10 @@
 </head>
 
 <body>
+
+  <?php require($DOCUMENT_ROOT . "assets/layouts/_header.php"); ?>
+
+<div class="container-background">
 
   <div class="container">
 
@@ -41,6 +46,10 @@
     <p>DECA prepares emerging leaders and entrepreneurs in marketing, finance, hospitality and management in high schools and colleges around the globe.</p>
 
   </div>
+
+</div>
+
+  <?php require($DOCUMENT_ROOT . "assets/layouts/_footer.php"); ?>
 
 </body>
 
