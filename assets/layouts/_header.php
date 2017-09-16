@@ -1,3 +1,5 @@
+<?php $section = $_SERVER["REQUEST_URI"]; ?>
+
 <header class="navbar navbar-fixed-top navbar-default">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -6,17 +8,29 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <!-- link_to "VP DECA", root_path, id: "logo" -->
+      <a id="logo" href="/">VP DECA</a>
     </div>
 
     <div class="collapse navbar-collapse" id="navbar">
       <ul class="nav navbar-nav navbar-right">
-        <li class="active"><a href="#">About</a></li>
-        <li><a href="#">Events</a></li>
-        <li><a href="#">Exec</a></li>
-        <li><a href="#">Resources</a></li>
-        <li><a href="#">Registration</a></li>
-        <li><a href="#">Contact</a></li>
+        <li <?php if ($section == "/about.php") { echo "class=\"active\""; } ?>>
+          <a href="/about.php">About</a>
+        </li>
+        <li <?php if ($section == "/events.php") { echo "class=\"active\""; } ?>>
+          <a href="/events.php">Events</a>
+        </li>
+        <li <?php if ($section == "/executives.php") { echo "class=\"active\""; } ?>>
+          <a href="/executives.php">Exec</a>
+        </li>
+        <li <?php if ($section == "/documents.php") { echo "class=\"active\""; } ?>>
+          <a href="/resources.php">Resources</a>
+        </li>
+        <li <?php if ($section == "/registration.php") { echo "class=\"active\""; } ?>>
+          <a href="/registration.php">Registration</a>
+        </li>
+        <li <?php if ($section == "/contact.php") { echo "class=\"active\""; } ?>>
+          <a href="/contact.php">Contact</a>
+        </li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" type="button">Dropdowntest <span class="caret"></span></a>
           <ul class="dropdown-menu">

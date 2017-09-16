@@ -1,14 +1,10 @@
-@import "bootstrap-sprockets";
-@import "bootstrap";
+/* @import "bootstrap-sprockets";
+@import "bootstrap"; */
 
-/* Notice the nesting in these "CSS" declarations. SASSY CSS, i.e., 
-SCSS allows for this. The "&:" refers to the parent e.g., see "#logo" in 
-'header'. Otherwise, double or triple tags e.g., footer ul li, will be 
+/* Notice the nesting in these "CSS" declarations. SASSY CSS, i.e.,
+SCSS allows for this. The "&:" refers to the parent e.g., see "#logo" in
+'header'. Otherwise, double or triple tags e.g., footer ul li, will be
 represented as a triple nested declaration. */
-
-/* mixins, variables, etc. */
-$gray-medium-light: #eaeaea;
-$light-gray: #777;
 
 /* universal */
 
@@ -26,9 +22,9 @@ textarea {
 
 .center {
   text-align: center;
-  h1 {
-    margin-bottom: 10px;
-  }
+}
+.center h1 {
+  margin-bottom: 10px;
 }
 
 /* typography */
@@ -50,14 +46,14 @@ h2 {
   margin-bottom: 30px;
   text-align: center;
   font-weight: normal;
-  color: $light-gray;
+  color: #777;
 }
 
 p {
   font-size: 1.1em;
   line-height: 1.7em;
   font-weight: 200;
-  color: $gray-lighter;
+  color: #AAA;
   text-indent: 30px;
 }
 
@@ -73,10 +69,10 @@ p {
   letter-spacing: -1px;
   padding-top: 9px;
   font-weight: bold;
-  &:hover {
-    color: #fff;
-    text-decoration: none;
-  }
+}
+#logo:hover {
+  color: #fff;
+  text-decoration: none;
 }
 
 /* footer */
@@ -87,24 +83,24 @@ footer {
   margin-right: 10.1%;
   padding-top: 5px;
   border-top: 1px solid #BBB;
-  color: $light-gray; /* equivalent to $light-gray but provided by Less and translated by the bootstrap-sass gem */
-  a {
-    color: #555; /* #555 */
-    &:hover {
-      color: #ccc; /* #222 */
-    }
-  }
-  small {
-    float: left;
-  }
-  ul {
-    float: right;
-    list-style: none;
-    li {
-      float: left;
-      margin-left: 15px;
-    }
-  }
+  color: #777; /* equivalent to #777 but provided by Less and translated by the bootstrap-sass gem */
+}
+footer a {
+  color: #555; /* #555 */
+}
+footer a:hover {
+  color: #ccc; /* #222 */
+}
+footer small {
+  float: left;
+}
+footer ul {
+  float: right;
+  list-style: none;
+}
+footer ul li {
+  float: left;
+  margin-left: 15px;
 }
 
 /* JUMBOTRON */
@@ -113,14 +109,14 @@ footer {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  
+
   margin: 0%;
   padding: 0;
   z-index: -1;
 }
 
-#jumbo-welcome { 
-  margin-top: 2%; 
+#jumbo-welcome {
+  margin-top: 2%;
   padding-left: 8%;
   padding-right: 8%;
 }

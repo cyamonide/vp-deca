@@ -5,9 +5,8 @@
   </small>
   <nav>
     <ul>
-      <li><%= link_to "About",   about_path %></li>
-      <li><%= link_to "Contact", contact_path %></li>
-      <!--<li><a href="http://news.railstutorial.org/">News</a></li>-->
+      <li><a href="/about.php">About</a></li>
+      <li><a href="/contact.php">Contact</a></li>
     </ul>
   </nav>
 </footer>
