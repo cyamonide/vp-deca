@@ -3,8 +3,6 @@
 <html lang="en">
 
 <head>
-
-</head>
   <meta charset='UTF-8'>
   <link type='text/css' rel='stylesheet' href=''>
 
@@ -18,6 +16,9 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
   <title>Home</title>
+
+</head>
+
 <body>
 
   <div class="container">
