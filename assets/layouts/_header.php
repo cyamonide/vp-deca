@@ -23,7 +23,7 @@
           <a href="/executives.php">Exec</a>
         </li>
         <li <?php if ($section == "/documents.php") { echo "class=\"active\""; } ?>>
-          <a href="/resources.php">Resources</a>
+          <a href="/documents.php">Resources</a>
         </li>
         <li <?php if ($section == "/registration.php") { echo "class=\"active\""; } ?>>
           <a href="/registration.php">Registration</a>
