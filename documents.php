@@ -29,7 +29,7 @@
 
   <div class="container">
 
-    <p> Sorry fam, ahlie but this page doesn't exist. Good luck next time. </p>
+    <p> Sorry, but this page doesn't exist. Good luck next time. </p>
 
   </div>
 
