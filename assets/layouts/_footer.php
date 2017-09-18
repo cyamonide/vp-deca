@@ -1,6 +1,6 @@
 <footer class="footer">
   <small>
-    The Victoria Park DECA website
+    The <a href="https://github.com/cyamonide/vp-deca">Victoria Park DECA website</a>
     by <a href="https://github.com/PierrotAWB">Andrew Wang</a> and <a href="https://github.com/Cyamonide">Simon Liu</a>
   </small>
   <nav>
