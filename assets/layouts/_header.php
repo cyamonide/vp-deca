@@ -13,22 +13,22 @@
 
     <div class="collapse navbar-collapse" id="navbar">
       <ul class="nav navbar-nav navbar-right">
-        <li <?php if ($section == "/about.php") { echo "class=\"active\""; } ?>>
+        <li <?php if (fnmatch("/about.php*", $section)) { echo "class=\"active\""; } ?>>
           <a href="/about.php">About</a>
         </li>
-        <li <?php if ($section == "/events.php") { echo "class=\"active\""; } ?>>
+        <li <?php if (fnmatch("/events.php*", $section)) { echo "class=\"active\""; } ?>>
           <a href="/events.php">Events</a>
         </li>
-        <li <?php if ($section == "/executives.php") { echo "class=\"active\""; } ?>>
+        <li <?php if (fnmatch("/executives.php*", $section)) { echo "class=\"active\""; } ?>>
           <a href="/executives.php">Exec</a>
         </li>
-        <li <?php if ($section == "/documents.php") { echo "class=\"active\""; } ?>>
+        <li <?php if (fnmatch("/documents.php*", $section)) { echo "class=\"active\""; } ?>>
           <a href="/documents.php">Resources</a>
         </li>
-        <li <?php if ($section == "/registration.php") { echo "class=\"active\""; } ?>>
+        <li <?php if (fnmatch("/registration.php*", $section)) { echo "class=\"active\""; } ?>>
           <a href="/registration.php">Registration</a>
         </li>
-        <li <?php if ($section == "/contact.php") { echo "class=\"active\""; } ?>>
+        <li <?php if (fnmatch("/contact.php*", $section)) { echo "class=\"active\""; } ?>>
           <a href="/contact.php">Contact</a>
         </li>
         <li class="dropdown">

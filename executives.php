@@ -27,9 +27,53 @@
 
 <div class="container-background">
 
-  <div class="container">
+  <div class="container" id="exec-container">
 
-    <p> Sorry fam, ahlie but this page doesn't exist. Good luck next time. </p>
+    <div class="row exec-section">
+      <div class="col-sm-12">Presidents</div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-3"></div>
+      <div class="col-sm-3">
+        <img src="/assets/images/mugshots/sliu.jpg"><hr>
+        Simon Liu<br>Co-President
+      </div>
+      <div class="col-sm-3">
+        <img src="/assets/images/mugshots/psareen.jpg"><hr>
+        Parth Sareen<br>Co-President
+      </div>
+      <div class="col-sm-3"></div>
+    </div>
+
+    <div class="row exec-section">
+      <div class="col-sm-12">Trainers</div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-3">Elham - Principles Trainer</div>
+      <div class="col-sm-3">Sara - Principles Trainer</div>
+      <div class="col-sm-3">Henry - Marketing Trainer</div>
+      <div class="col-sm-3">Veni - Marketing Trainer</div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-3">Harish - Admin Trainer</div>
+      <div class="col-sm-3">Andrew - Finance Trainer</div>
+      <div class="col-sm-3">Rabia - Hospitality Trainer</div>
+      <div class="col-sm-3">Lillian - Writtens Trainer</div>
+    </div>
+
+    <div class="row exec-section">
+      <div class="col-sm-12">Administrative</div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-3"></div>
+      <div class="col-sm-3">Connia - Secretary</div>
+      <div class="col-sm-3">Ali - Treasurer</div>
+      <div class="col-sm-3"></div>
+    </div>
 
   </div>
 
