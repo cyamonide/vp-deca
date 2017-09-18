@@ -35,16 +35,14 @@
 
       <p class="lead">VP DECA is Victoria Park Collegiate Institiute's DECA chapter under DECA Ontario, with over 120 members in grades 9 - 12. We train and prepare our members for DECA's compeitive events, at competitions at the regional, provincial, and international levels.</p>
 
+      <p>Our goal is to prepare our students for the rapidly changing economy by fostering high-demand skills in marketing, finance, hospitality, and business administration.</p>
+
+      <p>DECA prepares emerging leaders and entrepreneurs in marketing, finance, hospitality and management in high schools and colleges around the globe.</p>
+
       <p class="lead">
         <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
       </p>
     </div>
-
-    <p></p>
-
-    <p>Our goal is to prepare our students for the rapidly changing economy by fostering high-demand skills in marketing, finance, hospitality, and business administration.</p>
-
-    <p>DECA prepares emerging leaders and entrepreneurs in marketing, finance, hospitality and management in high schools and colleges around the globe.</p>
 
   </div>
 
