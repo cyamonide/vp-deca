@@ -51,17 +51,33 @@
     </div>
 
     <div class="row">
-      <div class="col-sm-3">Elham - Principles Trainer</div>
-      <div class="col-sm-3">Sara - Principles Trainer</div>
-      <div class="col-sm-3">Henry - Marketing Trainer</div>
-      <div class="col-sm-3">Veni - Marketing Trainer</div>
+      <div class="col-sm-3">
+        <img src="/assets/images/mugshots/eislam.jpg"><hr>
+        Elham Islam<br>Principles Trainer</div>
+      <div class="col-sm-3">
+        <img src="/assets/images/mugshots/sreza.jpg"><hr>
+        Sara Reza<br>Principles Trainer</div>
+      <div class="col-sm-3">
+        <img src="/assets/images/mugshots/hzhang.jpg"><hr>
+        Henry Leung<br>Marketing Trainer</div>
+      <div class="col-sm-3">
+        <img src="/assets/images/mugshots/vsubramanian.jpg"><hr>
+        Veni Subramanian<br>Marketing Trainer</div>
     </div>
 
     <div class="row">
-      <div class="col-sm-3">Harish - Admin Trainer</div>
-      <div class="col-sm-3">Andrew - Finance Trainer</div>
-      <div class="col-sm-3">Rabia - Hospitality Trainer</div>
-      <div class="col-sm-3">Lillian - Writtens Trainer</div>
+      <div class="col-sm-3">
+        <img src="/assets/images/mugshots/hramachandran.jpg"><hr>
+        Harish Ramachandran<br>Admin Trainer</div>
+      <div class="col-sm-3">
+        <img src="/assets/images/mugshots/awang.jpg"><hr>
+        Andrew Wang<br>Finance Trainer</div>
+      <div class="col-sm-3">
+        <img src="/assets/images/mugshots/rtahir.jpg"><hr>
+        Rabia Tahir<br>Hospitality Trainer</div>
+      <div class="col-sm-3">
+        <img src="/assets/images/mugshots/lli.jpg"><hr>
+        Lillian Li<br>Writtens Trainer</div>
     </div>
 
     <div class="row exec-section">
@@ -70,8 +86,12 @@
 
     <div class="row">
       <div class="col-sm-3"></div>
-      <div class="col-sm-3">Connia - Secretary</div>
-      <div class="col-sm-3">Ali - Treasurer</div>
+      <div class="col-sm-3">
+        <img src="/assets/images/mugshots/cren.jpg"><hr>
+        Connia Ren<br>Secretary</div>
+      <div class="col-sm-3">
+        <img src="/assets/images/mugshots/arajabali.jpg"><hr>
+        Ali Rajabali<br>Treasurer</div>
       <div class="col-sm-3"></div>
     </div>
 
