@@ -99,11 +99,14 @@ footer ul {
   list-style: none;
 }
 footer ul li {
-The site's currently under maintenance; I'm still working on it.
-Here's the executives page with
+
+/*The site's currently under maintenance; I'm still working on it.
+Here's the executives page with */
   float: left;
   margin-left: 15px;
+  display: inline;
 }
+
 
 /* JUMBOTRON */
 

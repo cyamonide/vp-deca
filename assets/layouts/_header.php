@@ -8,28 +8,28 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a id="logo" href="/">VP DECA</a>
+      <a id="logo" href="index.php">VP DECA</a>
     </div>
 
     <div class="collapse navbar-collapse" id="navbar">
       <ul class="nav navbar-nav navbar-right">
         <li <?php if (fnmatch("/about.php*", $section)) { echo "class=\"active\""; } ?>>
-          <a href="/about.php">About</a>
+          <a href="about.php">About</a>
         </li>
         <li <?php if (fnmatch("/events.php*", $section)) { echo "class=\"active\""; } ?>>
-          <a href="/events.php">Events</a>
+          <a href="events.php">Events</a>
         </li>
         <li <?php if (fnmatch("/executives.php*", $section)) { echo "class=\"active\""; } ?>>
-          <a href="/executives.php">Exec</a>
+          <a href="executives.php">Exec</a>
         </li>
         <li <?php if (fnmatch("/documents.php*", $section)) { echo "class=\"active\""; } ?>>
-          <a href="/documents.php">Resources</a>
+          <a href="documents.php">Resources</a>
         </li>
         <li <?php if (fnmatch("/registration.php*", $section)) { echo "class=\"active\""; } ?>>
-          <a href="/registration.php">Registration</a>
+          <a href="registration.php">Registration</a>
         </li>
         <li <?php if (fnmatch("/contact.php*", $section)) { echo "class=\"active\""; } ?>>
-          <a href="/contact.php">Contact</a>
+          <a href="contact.php">Contact</a>
         </li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" type="button">Dropdowntest <span class="caret"></span></a>
