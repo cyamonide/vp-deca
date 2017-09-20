@@ -63,12 +63,15 @@ p {
   float: left;
   margin-right: 10px;
   margin-left: 10px;
-  font-size: 1.7em;
+  /* font-size: 1.7em;
   color: #fff;
   text-transform: uppercase;
-  letter-spacing: -1px;
-  padding-top: 9px;
   font-weight: bold;
+  letter-spacing: -1px; */
+  padding: 10px;
+  max-height: 60px;
+  width: auto;
+  height: auto;
 }
 #logo:hover {
   color: #fff;

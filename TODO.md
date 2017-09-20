@@ -6,7 +6,7 @@
 ********************************************************************************
 
 - Redesign main page jumbotron (slideshow?)
-- Add custom logo to header
+- Add custom logo to header [Simon]
 - Clean up registration page
 
 ********************************************************************************

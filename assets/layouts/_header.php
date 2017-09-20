@@ -8,7 +8,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a id="logo" href="index.php">VP DECA</a>
+      <a href="index.php"><img src="/assets/images/logos/VPDECALogoWhite.png" id="logo"></a>
     </div>
 
     <div class="collapse navbar-collapse" id="navbar">

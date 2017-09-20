@@ -29,7 +29,7 @@
 
   <div class="container">
 
-    <div class="jumbotron" id ="jumbo-welcome">
+    <div id ="jumbo-welcome">
       <h1 class="display-2">Welcome to Victoria Park's DECA Website!</h1>
       <hr class="my-6">
 
