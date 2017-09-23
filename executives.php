@@ -59,7 +59,7 @@
         Sara Reza<br>Principles Trainer</div>
       <div class="col-sm-3">
         <img src="assets/images/mugshots/hzhang.jpg"><hr>
-        Henry Leung<br>Marketing Trainer</div>
+        Henry Zhang<br>Marketing Trainer</div>
       <div class="col-sm-3">
         <img src="assets/images/mugshots/vsubramanian.jpg"><hr>
         Veni Subramanian<br>Marketing Trainer</div>
