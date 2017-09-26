@@ -6,8 +6,10 @@
 ********************************************************************************
 
 - Redesign main page jumbotron (slideshow?)
-- Add custom logo to header [Simon]
-- Clean up registration page
+- Complete Typeform
+- Provide competitive event descriptions
+- Provide upcoming event descriptions
+- Change all paths to absolute
 
 ********************************************************************************
                                  Lower priority
