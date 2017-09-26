@@ -25,9 +25,9 @@
         <li class="dropdown <?php if (fnmatch("/events*", $section)) { echo "active\""; } ?>">
           <a href="/events.php" class="dropdown-toggle" type="button">Events <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="/events-regionals.php">Regionals</a></li>
-            <li><a href="/events-provincials.php">Provincials</a></li>
-            <li><a href="/events-icdc.php">ICDC</a></li>
+            <li><a href="/events/regionals.php">Regionals</a></li>
+            <li><a href="/events/provincials.php">Provincials</a></li>
+            <li><a href="/events/icdc.php">ICDC</a></li>
           </ul>
         </li>
 

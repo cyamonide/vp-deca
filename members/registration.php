@@ -4,14 +4,14 @@
 
 <head>
 
-  <?php require($DOCUMENT_ROOT . "/assets/layouts/_head.php"); ?>
+  <?php require($DOCUMENT_ROOT . "../assets/layouts/_head.php"); ?>
 
   <title>Registration | VP DECA</title>
 </head>
 
 <body>
 
-  <?php require($DOCUMENT_ROOT . "assets/layouts/_header.php"); ?>
+  <?php require($DOCUMENT_ROOT . "../assets/layouts/_header.php"); ?>
 
   <!-- Typeform auto popup embed -->
   <!--
@@ -54,7 +54,7 @@
 
   </div>
 
-  <?php require($DOCUMENT_ROOT . "assets/layouts/_footer.php"); ?>
+  <?php require($DOCUMENT_ROOT . "../assets/layouts/_footer.php"); ?>
 
 </body>
 
