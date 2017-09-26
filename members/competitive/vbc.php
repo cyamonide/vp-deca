@@ -29,7 +29,7 @@
 
   <div class="container">
 
-    <h1>Upcoming Events</h1>
+    <h1>Virtual Business Challenge</h1>
 
     <p> Sorry, but this page doesn't exist. Good luck next time. </p>
 

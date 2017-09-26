@@ -8,36 +8,42 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a href="index.php"><img src="assets/images/logos/HomeLogo.png" id="logo"></a>
+      <a href="/index.php"><img src="/assets/images/logos/HomeLogo.png" id="logo"></a>
     </div>
 
     <div class="collapse navbar-collapse" id="navbar">
       <ul class="nav navbar-nav navbar-right">
+
         <li <?php if (fnmatch("/about.php*", $section)) { echo "class=\"active\""; } ?>>
-          <a href="about.php">About</a>
+          <a href="/about.php">About</a>
         </li>
-        <li <?php if (fnmatch("/events.php*", $section)) { echo "class=\"active\""; } ?>>
-          <a href="events.php">Events</a>
-        </li>
+
         <li <?php if (fnmatch("/executives.php*", $section)) { echo "class=\"active\""; } ?>>
-          <a href="executives.php">Exec</a>
+          <a href="/executives.php">Exec</a>
         </li>
-        <li <?php if (fnmatch("/documents.php*", $section)) { echo "class=\"active\""; } ?>>
-          <a href="documents.php">Resources</a>
-        </li>
-        <li <?php if (fnmatch("/registration.php*", $section)) { echo "class=\"active\""; } ?>>
-          <a href="registration.php">Registration</a>
-        </li>
-        <li <?php if (fnmatch("/contact.php*", $section)) { echo "class=\"active\""; } ?>>
-          <a href="contact.php">Contact</a>
-        </li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" type="button">Dropdowntest <span class="caret"></span></a>
+
+        <li class="dropdown <?php if (fnmatch("/events*", $section)) { echo "active\""; } ?>">
+          <a href="/events.php" class="dropdown-toggle" type="button">Events <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#">Action 1</a></li>
-            <li><a href="#">Action 2</a></li>
+            <li><a href="/events-regionals.php">Regionals</a></li>
+            <li><a href="/events-provincials.php">Provincials</a></li>
+            <li><a href="/events-icdc.php">ICDC</a></li>
           </ul>
         </li>
+
+        <li class="dropdown <?php if (fnmatch("/members*", $section)) { echo "active\""; } ?>">
+          <a href="/members.php" class="dropdown-toggle" type="button">Members <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="/members/registration.php">Registration</a></li>
+            <li><a href="/members/competitive.php">Competitive Events</a></li>
+            <li><a href="/members-resources.php">Resources</a></li>
+          </ul>
+        </li>
+
+        <li <?php if (fnmatch("/contact.php*", $section)) { echo "class=\"active\""; } ?>>
+          <a href="/contact.php">Contact</a>
+        </li>
+
       </ul>
     </div>
   </div>
