@@ -155,3 +155,12 @@ Here's the executives page with */
 .exec-section {
   font-size: 36px;
 }
+
+/* REGISTRATION PAGE */
+#registration-demo div {
+  padding: 20px;
+}
+#registration-demo iframe { /* YouTube video embed of walkthrough */
+  display: block;
+  margin: auto;
+}
