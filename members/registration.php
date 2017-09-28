@@ -23,7 +23,7 @@
 
       <div class="row" id="registration-demo">
         <div class="col-lg-6">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/H7gOcooK6Gs?rel=0" frameborder="0" allowfullscreen></iframe>
+          <iframe  src="https://www.youtube.com/embed/H7gOcooK6Gs?rel=0" frameborder="0" allowfullscreen></iframe>
         </div>
         <div class="col-lg-6">
           <ol>

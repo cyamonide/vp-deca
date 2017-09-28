@@ -132,6 +132,20 @@ Here's the executives page with */
   margin-top: 2%;
   padding-left: 8%;
   padding-right: 8%;
+  text-align: center;
+}
+
+#jumbo-welcome div {
+  padding: 20px;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#registration-welcome {
+  background-image: url('/assets/images/backgrounds/awards.jpg');
+}
+
+#about-welcome {
 }
 
 /* EXECUTIVE PAGE */
@@ -163,4 +177,12 @@ Here's the executives page with */
 #registration-demo iframe { /* YouTube video embed of walkthrough */
   display: block;
   margin: auto;
+  height: 315px;
+  width: 560px;
+}
+@media (max-width: 768px) {
+  #registration-demo iframe {
+    height: 157px;
+    width: 280px;
+  }
 }

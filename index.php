@@ -19,18 +19,42 @@
   <div class="container">
 
     <div id ="jumbo-welcome">
-      <h1 class="display-2">Welcome to Victoria Park's DECA Website!</h1>
+      <h1 class="display-2">Victoria Park DECA</h1>
       <hr class="my-6">
 
-      <p class="lead">VP DECA is Victoria Park Collegiate Institute's DECA chapter under DECA Ontario, with over 120 members in grades 9 - 12. We train and prepare our members for DECA's competitive events, at competitions at the regional, provincial, and international levels.</p>
+      <div id="registration-welcome">
+        <h3>Registration for the 2017-2018 DECA season is now open!</h3>
+        <h4>Submission deadline is Sunday, October 8<sup>th</sup>, 2017 at 11:59 PM EST.</h4><br>
 
-      <p>Our goal is to prepare our students for the rapidly changing economy by fostering high-demand skills in marketing, finance, hospitality, and business administration.</p>
+        <p class="lead">
+          <a class="btn btn-primary btn-lg" href="/members/registration.php" role="button">Register Now</a>
+        </p>
+      </div>
 
-      <p>DECA prepares emerging leaders and entrepreneurs in marketing, finance, hospitality and management in high schools and colleges around the globe.</p>
+      <hr class="my-6">
 
-      <p class="lead">
-        <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
-      </p>
+      <div id="about-welcome">
+
+        <p class="lead">VP DECA is Victoria Park Collegiate Institute's DECA chapter under DECA Ontario, with over 120 members in grades 9 - 12. We train and prepare our members for DECA's competitive events, at competitions at the regional, provincial, and international levels.</p>
+
+        <p class="lead">Our goal is to prepare our students for the rapidly changing economy by fostering high-demand skills in marketing, finance, hospitality, and business administration.</p>
+
+        <p class="lead">DECA prepares emerging leaders and entrepreneurs in marketing, finance, hospitality and management in high schools and colleges around the globe.</p>
+
+        <p class="lead">
+          <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+        </p>
+
+      </div>
+
+      <hr class="my-6">
+
+      <div id="contact-welcome">
+
+      </div>
+
+      <h4>Please excuse our appearance as our site undergoes maintenance and upgrades.</h4>
+
     </div>
 
   </div>
