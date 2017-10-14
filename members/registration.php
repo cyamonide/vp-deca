@@ -61,7 +61,7 @@
 
       Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSeEYIe3UwUDsch0km0IlZ1dAZPEMNgvVOvm_ptXBe7GQ3kE5w/viewform?usp=sf_link" target="_blank">here</a> to register with Victoria Park CI's DECA chapter.
 
-      The deadline to submit is <b>Sunday, October 8<sup>th</sup>, 2017 at 11:59 PM EST</b>.
+      The deadline to submit is <b>Friday, October 13<sup>th</sup>, 2017 at 11:59 PM EST</b>.
 
     </div>
 

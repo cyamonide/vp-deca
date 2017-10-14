@@ -24,7 +24,7 @@
 
       <div id="registration-welcome">
         <h3>Registration for the 2017-2018 DECA season is now open!</h3>
-        <h4>Submission deadline is Sunday, October 8<sup>th</sup>, 2017 at 11:59 PM EST.</h4><br>
+        <h4>Submission deadline is Friday, October 13<sup>th</sup>, 2017 at 11:59 PM EST.</h4><br>
 
         <p class="lead">
           <a class="btn btn-primary btn-lg" href="/members/registration.php" role="button">Register Now</a>
