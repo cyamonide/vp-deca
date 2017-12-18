@@ -1,0 +1,8 @@
+AuthType Basic
+AuthName "The place to be is Atlanta, Georgia (if TDSB lifts the stupid ban)."
+AuthUserFile /misc/42/000/265/199/1/user/web/deca.victoriaparkci.ca/assets/training/.htpasswd
+Require valid-user
+ReadmeName footer.html
+IndexIgnore footer.html
+
+Options +Indexes

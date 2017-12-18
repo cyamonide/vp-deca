@@ -1,0 +1,47 @@
+/*
+
+HEY!
+
+HEY YOU!
+
+YEAH YOU.
+
+YOU SHOULDN'T BE HERE!
+
+WHAT ARE YOU DOING?
+
+MIND YOUR OWN BUSINESS (quite literally)!
+
+GO STUDY OR SOMETHING!
+
+LEAVE ME ALONE :(
+
+*/
+
+* {
+	font-family: 'Noto Sans', sans-serif;
+}
+
+/* Don't read that. */
+
+html {
+	overflow-y: scroll;
+}
+
+body {
+	padding-left: 3%;
+}
+
+/* Why are you here? */
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	background: url("/documents/bullet.png") no-repeat left top;
+	height: 32px;
+	padding-left: 32px;
+	/* Stop bothering me, please! */
+	margin-left: -15px;
+}
