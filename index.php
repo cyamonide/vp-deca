@@ -23,11 +23,14 @@
       <hr class="my-6">
 
       <div id="registration-welcome">
-        <h3>Registration for the 2017-2018 DECA season is now open!</h3>
-        <h4>Submission deadline is Friday, October 13<sup>th</sup>, 2017 at 11:59 PM EST.</h4><br>
+        <h3><b>DAYS UNTIL DECA ONTARIO PROVINCIALS:</b></h3><br>
+        <h1><?php $remaining = floor((strtotime("February 8, 2018 8:00 AM")-time()) / 86400); echo "$remaining" ?></h1><br>
+        <h4>
+          Have have you been studying?
+        </h4><br>
 
         <p class="lead">
-          <a class="btn btn-primary btn-lg" href="/members/registration.php" role="button">Register Now</a>
+          <a class="btn btn-primary btn-lg" href="/assets/training/resources/" role="button">Training Resources</a>
         </p>
       </div>
 
