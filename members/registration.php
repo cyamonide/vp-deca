@@ -16,8 +16,13 @@
   <div class="container">
 
 
-      <h1 class="page-title">Registration - Now Open!</h1>
+      <h1 class="page-title">2018-2019 Registration</h1>
+      
       <hr>
+
+      The 2017-2018 DECA season is currently ongoing. Next season's registration will be coming 2018 September.
+
+      <!--
 
       <h3>Step 1: DECA Ontario Payment &amp; Registration</h3>
 
@@ -62,6 +67,8 @@
       Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSeEYIe3UwUDsch0km0IlZ1dAZPEMNgvVOvm_ptXBe7GQ3kE5w/viewform?usp=sf_link" target="_blank">here</a> to register with Victoria Park CI's DECA chapter.
 
       The deadline to submit is <b>Friday, October 13<sup>th</sup>, 2017 at 11:59 PM EST</b>.
+
+      -->
 
     </div>
 
