@@ -44,9 +44,13 @@
 
         <p class="lead">DECA prepares emerging leaders and entrepreneurs in marketing, finance, hospitality and management in high schools and colleges around the globe.</p>
 
-        <p class="lead">
-          <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
-        </p>
+				<p>
+					Victoria Park's DECA chapter started in 2013, with the purpose of promoting business to our students. It's a chance for those who may potentially study business to showcase their abilities by competing against other like-minded students. Through DECA, members will learn business concepts and apply them to real-world scenarios presented to them. They will learn presentation along the way that will not only help them in DECA, but also wherever our members may find themselves in their future endeavors.
+
+					Having said that, DECA is by no means exclusive to students interested in business. It is open to all students, and all are encouraged to participate with the purpose of enhancing their communication skills, creativity, and study skills which are all key to success in any career.
+
+					Participants will have a chance to indicate the competitive events they wish to compete in, ranging from marketing, finance, hospitality, and many more. More details on registration can be found at our <a href="members/registration.php">Registration page</a>. The competitive events to pick from can be found <a href="members/competitive.php">here</a>. Be sure to double check with our exec team which events our chapter offers. Not all events listed will be available to you.
+				</p>
 
       </div>
 

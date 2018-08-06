@@ -14,10 +14,6 @@
     <div class="collapse navbar-collapse" id="navbar">
       <ul class="nav navbar-nav navbar-right">
 
-        <li <?php if (fnmatch("/about.php*", $section)) { echo "class=\"active\""; } ?>>
-          <a href="/about.php">About</a>
-        </li>
-
         <li <?php if (fnmatch("/executives.php*", $section)) { echo "class=\"active\""; } ?>>
           <a href="/executives.php">Exec</a>
         </li>
