@@ -1,5 +1,3 @@
 # vp-deca
 
-Hello, world! This is the VP DECA website repository of 2017-2018. We will post training resources, trainer information, competition updates, etc. 
-
-See our [sister site](http://vpdeca.herokuapp.com) (currently under development), designed to train students to ace their exams.
+This is the VP DECA website repository of 2017-2018. Training resources, trainer information, competition updates, and other info will be posted at our site, hosted at [http://deca.victoriaparkci.ca/](http://deca.victoriaparkci.ca)
