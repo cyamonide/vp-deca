@@ -4,27 +4,39 @@
 
 <head>
 
-  <?php require($DOCUMENT_ROOT . "assets/layouts/_head.php"); ?>
+	<?php require($DOCUMENT_ROOT . "assets/layouts/_head.php"); ?>
 
-  <title>Contact Us | VP DECA</title>
+	<title>Contact Us | VP DECA</title>
 
 </head>
 
 <body>
 
-  <?php require($DOCUMENT_ROOT . "assets/layouts/_header.php"); ?>
+	<?php require($DOCUMENT_ROOT . "assets/layouts/_header.php"); ?>
 
-<div class="container-background">
+	<div class="container-background">
 
-  <div class="container">
+		<div class="container">
 
-    <p> Sorry, but this page doesn't exist. Good luck next time. </p>
+			<h1>Contact Us</a>
 
-  </div>
+				<h2>E-mail</h2>
+				
+				<h4>Shoot us an e-mail at
+					<a href="mailto:deca.vpci@gmail.com">deca.vpci@gmail.com</a>
+				</h4>
 
-</div>
+				<h2>Facebook</h2>
+				
+				<h4>Also, join our
+					<a href="https://www.facebook.com/groups/vp.deca/">VP DECA Facebook group.</a>
+				</h4>
 
-  <?php require($DOCUMENT_ROOT . "assets/layouts/_footer.php"); ?>
+		</div>
+
+	</div>
+
+	<?php require($DOCUMENT_ROOT . "assets/layouts/_footer.php"); ?>
 
 </body>
 
