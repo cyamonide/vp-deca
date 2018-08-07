@@ -41,12 +41,20 @@ h1 {
 }
 
 h2 {
-  font-size: 1.2em;
+	/* font-size: 1.2em; */
   letter-spacing: -1px;
   margin-bottom: 30px;
-  text-align: center;
+  text-align: left;
   font-weight: normal;
   color: #777;
+}
+
+h4 {
+	line-height: 1.5;
+}
+
+.btn-md {
+	padding-bottom: 10px;
 }
 
 p {
@@ -145,7 +153,9 @@ Here's the executives page with */
   background-image: url('/assets/images/backgrounds/awards.jpg');
 }
 
-#about-welcome {
+#about-welcome p {
+	text-align: left;
+	font-size: 1.3em;
 }
 
 /* EXECUTIVE PAGE */

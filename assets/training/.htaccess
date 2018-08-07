@@ -1,5 +1,5 @@
 AuthType Basic
-AuthName "The place to be is Atlanta, Georgia (if TDSB lifts the stupid ban)."
+AuthName "You're trying to access protected documents. Ask your trainer for these credentials."
 AuthUserFile /misc/42/000/265/199/1/user/web/deca.victoriaparkci.ca/assets/training/.htpasswd
 Require valid-user
 ReadmeName footer.html

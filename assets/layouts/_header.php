@@ -31,7 +31,7 @@
           <a href="/members.php" class="dropdown-toggle" type="button">Members <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="/members/registration.php">Registration</a></li>
-            <li><a href="http://2016.deca.ca/competitive-events/">Competitive Events</a></li>
+            <li><a href="http://deca.ca/competitive-events/">Competitive Events</a></li>
             <li><a href="/assets/training/">Resources</a></li>
           </ul>
         </li>

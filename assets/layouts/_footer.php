@@ -5,7 +5,11 @@
   </small>
   <nav>
     <ul>
-      <li><a href="contact.php">Contact</a></li>
+      <li><a href="/index.php">Home</a></li>
+      <li><a href="/exec.php">Executives</a></li>
+      <li><a href="/events.php">Upcoming Events</a></li>
+      <li><a href="/members.php">Members</a></li>
+      <li><a href="/contact.php">Contact</a></li>
     </ul>
   </nav>
 </footer>
